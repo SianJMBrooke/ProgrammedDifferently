@@ -1,5 +1,5 @@
 # Programmed Differently
-Associated with the JCMC paper "Programmed Differently? Testing for Gender Differences in Python Programming Style and Quality on GitHub"
+Associated with the JCMC paper "Programmed Differently? Testing for Gender Differences in Python Programming Style and Quality on GitHub" DOI: https://doi.org/10.1093/jcmc/zmad049
 
 ### Abstract
 The underrepresentation of women in open-source software is frequently attributed to women’s lack of innate aptitude compared to men: a natural “gender difference” in technical ability. Approaching code as a form of communication, I conduct a novel empirical study of gender difference in Python programming on GitHub. Based on 1,728 open-source projects, I ask if there is a gender difference in the quality and style of Python code measured in adherence to PEP-8 guidelines. I found significant gender differences in structure and how Python files are organised. Whilst there is gendered variation in programming style, there is no evidence of gender difference in code quality. Using a Random Forest model, I show that the gender of a programmer can be predicted from the style of their Python code. The study concludes that gender differences in Python code are a matter of style, not quality.
